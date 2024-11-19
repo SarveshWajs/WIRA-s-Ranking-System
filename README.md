@@ -17,7 +17,7 @@ Getting Started
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/wira-ranking-dashboard.git
+git clone 
 cd wira-ranking-dashboard
 
 3. Setup Backend
